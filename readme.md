@@ -1,5 +1,5 @@
 # Daily-task-manager 
-Daily task manager helps to maintain the pace in the work we do in the time-line in our busy schedule day.
+Daily task manager helps to maintain the pace in the work we do in the time-line in our busy schedule day.This project is done with the help of AI Claude Sonet.
                  
 **Model_link** (currently running) : https://claude.ai/public/artifacts/cfae7d1a-b77e-4d29-adbd-55ccffe310c2
 
