@@ -1,6 +1,7 @@
 # Daily-task-manager 
-https://claude.ai/public/artifacts/cfae7d1a-b77e-4d29-adbd-55ccffe310c2
 Daily task manager helps to maintain the pace in the work we do in the time-line in our busy schedule day.
+                 
+**Model_link** (currently running) : https://claude.ai/public/artifacts/cfae7d1a-b77e-4d29-adbd-55ccffe310c2
 
 **Daily Activity Tracker (PWA)**
 A mobile-friendly Progressive Web App (PWA) built using HTML, CSS, and JavaScript that helps users track daily activities, manage timers, set goals, and analyze productivity.
